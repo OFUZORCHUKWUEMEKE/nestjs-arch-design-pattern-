@@ -1,0 +1,26 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Ofuzor chukwuemeke <uniben2018@gmail.com>",
+  "homepage": "https://github.com/OFUZORCHUKWUEMEKE/nestjs-arch-design-pattern-#readme",
+  "license": "ISC",
+  "main": "lib/gateway-service.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OFUZORCHUKWUEMEKE/nestjs-arch-design-pattern-.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/gateway-service.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/OFUZORCHUKWUEMEKE/nestjs-arch-design-pattern-/issues"
+  }
+}
